@@ -1,5 +1,6 @@
 ## I'm a Husband, Professor, and Researcher!!
 
+- I'm an associate professor at [Cal State Northridge](https://csun.edu)
 - I’m currently working on an introductory statistics textbook
 - I’m currently learning how to code in [Dart](https://dart.dev)
 - I’m looking to collaborate on projects related to artificial inteligence (AI) and motor skill assessment
