@@ -1,8 +1,8 @@
 ## I'm a Husband, Professor, and Researcher!!
 
-- 🔭 I’m currently working on a textbook 
-- 🌱 I’m currently learning how to code in Dart
-- 👯 I’m looking to collaborate on projects related to AI and motor skill assessment
+- 🔭 I’m currently working on an introductory statistics textbook
+- 🌱 I’m currently learning how to code in [Dart](https://dart.dev)
+- 👯 I’m looking to collaborate on projects related to artificial inteligence (AI) and motor skill assessment
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about anything
 - 😄 Pronouns: he/him
