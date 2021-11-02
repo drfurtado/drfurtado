@@ -1,6 +1,7 @@
 ## I'm a Husband, Professor, and Researcher!!
 
-- I'm an associate professor at [Cal State Northridge](https://csun.edu)
+- I'm an associate professor at [Cal State Northridge](https://www.metalab.csun.edu/faculty/ovande.furtado)
+- I write a [blog](https://drfurtado.github.io/randomstats) on topics related to statistics
 - I’m currently working on an introductory statistics textbook
 - I’m currently learning how to code in [Dart](https://dart.dev)
 - I’m looking to collaborate on projects related to artificial inteligence (AI) and motor skill assessment
