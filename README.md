@@ -8,7 +8,7 @@
 - I’m looking for help with `AI`
 - Ask me about anything
 - Pronouns: he/him
-- Fun fact: until yesterday, I couldn't correctly pronouce `nuclear` :(
+- When not teaching or learning stats, I am likely taking my [Poseidon for a spin](https://ridewithgps.com/users/1010474/)
 - If you landed here searching my `academic site`, please [click here](http://drfurtado.us)
 
 [![Website](https://img.shields.io/website?label=drfurtado.us&style=for-the-badge&url=http%3A%2F%2Fdrfurtado.us)](http://drfurtado.us)
