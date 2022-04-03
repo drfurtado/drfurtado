@@ -7,7 +7,6 @@
 - I’m looking to collaborate on projects related to `artificial inteligence` (AI) and `motor skill assessment`
 - I’m looking for help with `AI`
 - Ask me about anything
-- Pronouns: he/him
 - When not teaching or learning stats, I am likely taking my [Poseidon for a spin](https://ridewithgps.com/users/1010474/)
 - If you landed here searching my `academic site`, please [click here](http://drfurtado.us)
 
