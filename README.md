@@ -1,4 +1,4 @@
-## I'm a Husband, Professor, and Researcher!!
+## I'm a Professor, and Researcher!!
 
 - I'm an associate professor at [Cal State Northridge](https://www.metalab.csun.edu/faculty/ovande.furtado)
 - I write a [blog](https://drfurtado.github.io/randomstats) on topics related to statistics
