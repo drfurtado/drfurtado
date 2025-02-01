@@ -10,10 +10,7 @@
 - When not teaching or learning stats, I am likely taking my [bike for a spin](https://ridewithgps.com/users/1010474/)
 - If you landed here searching my `academic site`, please [click here](http://drfurtado.us)
 
-[![Website](https://img.shields.io/website?label=drfurtado.us&style=for-the-badge&url=http%3A%2F%2Fdrfurtado.us)](http://drfurtado.us)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ofurtado?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdrfurtado&screen_name=ofurtado)
-
-**Frequenly Used Apps**
+**Frequently Used Apps**
 All apps listed here are free to download and use. Most of the apps are open-source. 
 
 Screen Recording
